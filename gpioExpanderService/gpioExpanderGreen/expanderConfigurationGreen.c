@@ -2,7 +2,7 @@
  * @file
  *
  * Prototype GPIO Expander API interface.
- * The GPIO API implementation of GPIO Expander 1, 2, 3 on MangOH board
+ * The GPIO API implementation of GPIO Expander 1, 2, 3 on mangOH board
  *
  * <HR>
  *
